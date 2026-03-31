@@ -3,8 +3,8 @@
 **`Data and BI Analyst`**
 
 Data Analyst and Business Intelligence professional with experience in end-to-end data projects, working with ETL/ELT, data modeling, Data Mart, exploratory analysis, process automation, and development of strategic dashboards.
-●	Experience with Python, SQL, Power BI, Data Warehouse, dimensional modeling, and data governance, transforming legal, financial, educational, and operational data into indicators and strategic insights for decision-making.
-●	Business-oriented profile, with strong experience in data storytelling, KPI creation, data pipeline automation, and improving data quality and performance.
+-	Experience with Python, SQL, Power BI, Data Warehouse, dimensional modeling, and data governance, transforming legal, financial, educational, and operational data into indicators and strategic insights for decision-making.
+-	Business-oriented profile, with strong experience in data storytelling, KPI creation, data pipeline automation, and improving data quality and performance.
 
 ---
 
